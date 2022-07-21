@@ -28,7 +28,7 @@ const App = () => {
         value='color'
         onChange={(e) => setColor(e.target.value)}
         placeholder='#1c3403'/>
-        <button type='submit' className='btnAdd'></button>
+        <button type='submit' className='btnAdd'>Search</button>
       </form>
       </section>
       <section>
